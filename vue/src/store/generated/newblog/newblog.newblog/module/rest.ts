@@ -9,6 +9,8 @@
  * ---------------------------------------------------------------
  */
 
+export type NewblogMsgCreatePostResponse = object;
+
 /**
  * Params defines the parameters for the module.
  */
